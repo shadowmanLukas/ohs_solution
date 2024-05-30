@@ -1,0 +1,3 @@
+parcel index.html - starts server
+parcel build index.html - builds website for production
+
